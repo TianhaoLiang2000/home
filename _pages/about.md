@@ -14,7 +14,7 @@ I am an undergraduate student at Zhejiang University, advised by Jianke Zhu. Cur
 
 ## Preprints
 
-Jiacheng Chen\*, <u>Tianhao Liang</u>\*, Sherman Siu\*, Zhengqing Wang\*, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, Ziyan Jiang, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen. **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**. arXiv 2024 [[Paper](https://arxiv.org/abs/2410.10563)] [[Project Page](https://tiger-ai-lab.github.io/MEGA-Bench/)]
+Jiacheng Chen\*, <u>Tianhao Liang</u>\*, Sherman Siu\*, Zhengqing Wang\*, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, Ziyan Jiang, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen. **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**. arXiv 2024 [[Paper](https://arxiv.org/abs/2410.10563)] [[Project Page](https://tiger-ai-lab.github.io/MEGA-Bench/)] [[Code](https://github.com/TIGER-AI-Lab/MEGA-Bench)] [[Dataset](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench)]
 
 ## Contact
 
