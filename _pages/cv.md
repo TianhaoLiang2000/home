@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Technology, Zhejiang University, 2018-2024
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Summer 2024: Research Assistant
+  * TIGER-Lab, University of Waterloo
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Wenhu Chen
 
 * Fall 2015: Research Assistant
   * Github University
